@@ -1,0 +1,2 @@
+to delete tags locally >> git tag -d tagname
+to delete tags remotely >> git push origin --delete tagname
